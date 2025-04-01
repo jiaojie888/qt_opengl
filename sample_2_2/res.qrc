@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/logo.ico</file>
+        <file>res/shader/shapes.frag</file>
+        <file>res/shader/shapes.vert</file>
+    </qresource>
+</RCC>
